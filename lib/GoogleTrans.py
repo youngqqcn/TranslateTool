@@ -69,6 +69,8 @@ def Translate(content, srcLan, dstLan, tk):
 	:param tk: Google的tk值, the tk value for text
 	:return: 翻译后的文本 , the result text
 	'''
+	from time import sleep
+	sleep(1) #休眠一秒
 
 	if (srcLan not in gLanguage):
 		print("srcLan is not supported!")

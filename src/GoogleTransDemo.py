@@ -51,7 +51,8 @@ def main():
 	startTime = time.time()
 
 	print('==============================')
-	text = "你好,我来自中国.今天天气很好."    # in Chinese means "Hello, I'm from China. The weather is good today."
+	# text = "你好,我来自中国.今天天气很好."    # in Chinese means "Hello, I'm from China. The weather is good today."
+	text = "我叫Tom."    # in Chinese means "Hello, I'm from China. The weather is good today."
 
 	print("中文繁体:", Translate(text, "zh-CN", "zh-TW", js.getTk(text)))  #转为繁体   to Tranditional Chinese
 	print("英语:", Translate(text, "zh-CN", "en", js.getTk(text))) #翻译为英语    Chinese to  English

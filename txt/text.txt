@@ -1,0 +1,992 @@
+Upstr.
+with engine off
+Downst.
+AABG
+Right high beam
+Left high beam
+High beams
+lower
+Lower the vehicle chassis
+Enabled
+Enabled
+Enabled
+Start-up enabling
+Gear enable
+ABS
+Acceleration
+Vehicle acceleration
+Lateral acceleration
+Longitudinal acceleration
+Vertical acceleration
+Accelerometer
+Lateral accelerometer
+Start the engine
+Turn on the ignition
+Ignition
+Headlamp switch-on
+Panel on longer than
+Misfires
+Misfire cylinder 1
+Misfire cylinder 2
+Misfire cylinder 3
+Misfire cylinder 4
+On
+Steady light
+On
+ON
+on and the plug type
+on and the connection to
+Accessories
+Water in fuel
+Key acknowledgement
+Mixture additive adaptation
+Long term fuel trim
+Short term fuel trim
+Manifold air adaptation
+Additive strength matching
+Strength multiplication matching
+Oxygen sensor adapt
+Oxygen sensor 1 adapt
+Oxygen sensor 2 adapt
+Idle adapt
+Mixture multiplicative adaptation
+Throttle 1 potentiometer adaptation
+Throttle 2 potentiometer adaptation
+Throttle valve adaptation 
+Adaptive
+ADC
+Update successfully completed!
+Updating....
+Act on connections
+Pressure sensor supply
+backwards
+Camshaft
+Crankshaft
+some functions could
+some devices
+Power
++5 supply for sensors
+Accessory feed
+Switched supply
+Sensors power supply
+Compressed air tank pressure sensor supply
+Traction system hydraulic unit supply
+Coil 1 power supply
+Coil 2 power supply
+Coil 3 supply
+Coil 4 supply
+ECU power
+Coil power supply
+Terminal 15 supply
+Terminal R power supply 
+ECU secondary power
+Sensor feed
+Sensor 1 feed
+Sensor 2 feed
+Sensor group 3 supply
+Siren supply
+to the diagnostic socket and
+to locate loose contacts
+Alarm
+Antitheft alarm
+Oil pressure alarm
+Package
+ALPINE
+ALPS
+High
+High temperature
+Alternator
+Up
+Front right speaker
+Front left speaker
+Rear right speaker
+Rear left speaker
+Loudspeakers
+Front speakers
+Rear loudspeakers
+AM
+Amplifier
+Immobilizer amplifier 
+Right dipped beam
+Left dipped beam
+Dipped beam
+Secondary throttle opening angle
+Dwell angle
+Cylinder 1 ignition angle
+Cylinder 2 ignition angle
+Cylinder 3 ignition angle
+Cylinder 4 ignition angle
+Throttle angle
+Ignition angle
+Steering angle
+CANCEL or CONFIRM to end
+CANCEL to end
+CANCEL to quit
+Failure
+Lambda sensor resistance power fault
+Speed sensor fault
+Electronic failure
+Lambda sensor signal generic fault
+Knock sensor fault
+Fuel level sensor fault
+Antenna
+GPS antenna
+Navigator antenna (GPS)
+Front
+Anti clockwise
+Immobilizer
+Advance
+Cylinder 1 spark advance
+Cylinder 2 spark advance
+Cylinder 3 spark advance
+Cylinder 4 spark advance
+Spark advance
+Basic advance
+Actual advance
+Alarm
+Open
+OPEN
+Opening
+Front power window DOWN
+Rear power window DOWN
+Open canister
+Target throttle opening
+EGR valve opening
+Idle valve opening
+Throttle opening
+Exhaust gas throttle opening
+GMW opening
+Open pressure regulator
+Auxiliary air valve opening
+Application
+Throttle learning
+Lambda learning with partial charge
+Long term fuel trim - idle
+Oxygen sensor adapt bank 1
+Oxygen sensor adapt bank 2
+Phonic wheel learning
+learnt
+Open
+Stop
+Idle stop
+Emergency stop
+Increase
+Enrichment after starting
+Acceleration enrichment
+Dry
+Asia
+ASR
+Front axle
+Rear axle
+Absent
+No communication with engine ECU
+No communication with instrument panel
+No spark
+No answer from BSI
+Signal missing
+Servo
+Assistance
+Atmosphere off
+ATT
+wait
+wait for 10 seconds...
+Wait 15 seconds
+wait for 20 seconds...
+please wait 30 seconds...
+please wait 40 sec....
+wait 5 seconds...
+wait for 60 seconds...
+Wait a few minutes...
+Wait and check the running
+Wait...
+Caution: engine running!
+Caution: engine off!
+Warning!
+Caution! System unknown
+Caution: this procedure may
+Warning:
+Warning: if time out error persists,
+Warning: Verify that between the diagnosis socket
+Waiting for revs
+Active
+Activate the statement
+Energize selected component?
+Activated
+On
+Idle actuator energized
+Climate control system on
+Alarm on
+Canister solenoid valve activation
+Injector activation
+Activation done
+Failed ON
+Cannot energize
+Activating...
+Injector activation on
+Activation cancelled
+Activation not available
+Not possible
+Petrol and oil pump activation. 
+Fuel pump relay energized
+Activation ended
+Acav valve energized
+CANISTER VALVE ACTIVATION
+Turbo valve energized
+Active
+Actuator
+Idle actuator
+Turbine actuator
+Right actuator
+Throttle actuator
+Secondary throttle actuator
+Left actuator
+Exhaust throttle valve actuator
+Actuators
+Actuator 10
+Actuator 11
+Actuator 2
+Actuator 3
+Actuator 4
+Actuator 5
+Actuator 6
+Actuator 7
+Actuator 8
+Actuator 9
+Increase
+Pressure increase
+Australia
+Austria
+Partial load self-adapt
+Yaw rate
+Idle control self-adaptation
+Self-adaptation
+Throttle position self-adapt
+Self-configuration
+AUTOLIV
+Automatic
+A/C approval
+Self-test
+Next
+Failure
+Circuit failure
+Start the engine
+Idle the engine
+Start-up
+Cold start
+Start enabled
+Start the engine
+Start the engine
+start the engine and then 
+Start the car and
+Started
+Horn
+Electrical activation
+ABS wrong operation
+Fan start
+Apply brake
+Activate brake pedal slowly
+operated
+Self-learnt function reset
+Reset done
+Resetting...
+Adaptive value reset
+Wet
+Bank 1
+bar
+Base
+Base stepper
+Low
+Down
+Battery
+Battery down
+Overcharged battery
+High battery voltage
+Low battery voltage
+Knock cylinder 1
+Knock cylinder 2
+Lower stop
+Upper stop
+BECKER
+Gasoline
+BLAUPUNKT
+Steering lock
+Locked
+Blocked
+locked
+Ignition lock
+Lock
+ECU lock
+Coil 1
+Coil 1-4
+Coil 2
+Coil 2-3
+Coil 3
+Coil 4
+Coil 5
+Coil 6
+Coil 7
+Coil 8
+Ignition coil 1-4
+Ignition coil 2-3
+Front coil 
+1-4 cylinders coil
+2-3 cylinders coil
+Ignition coil
+Cylinder 1 ignition coil
+Cylinder 2 ignition coil
+Cylinder 3 ignition coil
+Cylinder 4 ignition coil
+Cylinder 5 ignition coil
+Cylinder 6 ignition coil
+Cylinder 7 ignition coil
+Cylinder 8 ignition coil
+Rear coil 
+Ignition coil
+BORGWARNER
+BOSCH
+Bulb
+CAN bus
+CAN bus off
+Data bus
+bus off
+C
+Calibrated
+Calibration
+Sensor calibration
+N engaged
+Input change
+Gear change
+CAN - high
+CAN - low
+ABS CAN
+Canada
+Clear error memory
+Deleted
+Error clearing
+Errors deleted
+Deleting errors...
+Error clearing not done
+Service info deletion
+Error memory clearing
+error deletions left out of 50
+Spark plug 1
+Spark plug 2
+Spark plug 3
+Spark plug 4
+Glow plug
+Charge
+Battery charger
+Charge
+Engine load
+Partial load
+Catalyser
+ECU
+ECU (EEPROM)
+ECU (RAM)
+ECU (ROM)
+ABS control unit
+Steering lock ECU
+ECU locked
+Lock/unlock ECU
+Engine control unit
+Automatic transmission ECU
+Injection ECU
+Pre-heat ECU
+ECU failure
+Engine ECU
+Uncoded ECU
+ECU not programmed
+ECU not recognised
+Tire pressure ECU
+Instrument panel control unit
+Radio control unit
+ECU unlocked
+Unknown ECU
+Chassis ECU
+Blank ECU
+Check inclination sensors
+EEPROM checksum
+Wrong checksum
+Memory checksum
+ROM Checksum
+Sensor values checksum
+Key
+Key 1
+Key 2
+Key 3
+Key 4
+Key 5
+Key 6
+Key 7
+Key 8
+Ignition key
+No key
+Key locked
+Electronic key
+Wrong key
+Key already stored
+Key at ON
+Invalid key
+Acknowleged key
+Key to STOP
+Mileage in kms
+Total mileage
+Close
+close and refit contact
+Closed
+CLOSED
+Closing
+Central lock
+is a good contact in order to avoid
+Displacement
+Cylinder 1
+Cylinder 3
+Cylinder 5
+Cylinder 6
+Cylinder 7
+Cylinder 8
+Steering lock cylinder
+China
+Fastened drivers belt
+Circuit
+Ignition circuit
+Supply 1 circuit
+Supply 2 circuit
+Open circuit
+Open circuit or short circuit to negative
+Open circuit or short circuit to positive
+Open circuit or short circuit to ground
+Open circuit or short-circuit to earth or short-circuit to battery positive
+Open-circuit or short-circuit to battery positive
+Open circuit/No signal
+Closed loop
+Control circuit faulty
+Ignition circuit (cylinder unknown)
+Ignition circuit cylinder 1
+Ignition circuit cylinder 2
+Ignition circuit cylinder 3
+Ignition circuit cylinder 4
+Supply circuit
+Air supply circuit
+Fuel high pressure circuit
+Intake circuit
+Faulty/open circuit
+Short/open circuit
+Injector circuit
+lambda sensor circuit
+Throttle potentiometer circuit
+Upstream oxygen sensor preheating circuit
+Radiator fan relay circuit
+Vehicle speed sensor circuit
+Upstream oxygen sensor circuit
+MIL lamp circuit
+City
+Horn
+Injector 1 classification
+Injector 2 classification
+Injector 3 classification
+Injector 4 classification
+Injectors classification
+Client
+Closed loop
+cm
+cm^3
+Coast
+Code
+Key code
+ECU code
+Wrong key code
+Key code not received
+Version code
+Type-approval code
+Safety code
+Diagnosis code
+Wrong code
+Error code:
+Hardware code:
+Immobilizer code
+ISO code
+ISO code:
+Key mechanical code
+Engine code
+Invalid code
+Spare part code
+Bosch spare part code
+Software code
+Universal code
+VIN code
+Error codes
+Coding
+Key coding
+Vehicle wrong coding
+Coded
+Coded
+Matching
+Wheel speed consistency
+Diagnosis link
+Connected
+Open connection
+Connection not possible
+Connect the instrument
+Connected
+Controlled
+Control
+Secondary air control
+Turbo actuator control
+Injector control
+Intake manifold control
+Tachometer control
+Power relay control
+Main relay control
+EGR solenoid valve control
+Cylinder 1 injector control
+Cylinder 2 injector control
+Cylinder 3 injector control
+Cylinder 4 injector control
+Water pump control
+Fuel pump control
+Cooling fan control
+Command executed
+Right brake control
+Left brake control
+Injector control (bank 1)
+Injector control (bank 2)
+Warm-up module control
+Cannot proceed
+Climate control relay control
+Suspension control +
+Suspension control -
+Stepper control
+Sunroof control
+Fan control
+switch
+Ignition switch
+Brake light switch
+Clutch switch
+Complete
+done
+done. Press the
+Complete
+ECU internal CAN component
+Faulty component
+Compressor
+A/C compressor
+HVAC compressor
+Communication missing
+CAN communication
+CAN communication with immobiliser
+CAN communication with engine
+CAN communication with instrument panel
+CAN to ABS communication
+ECU communication - CAN network
+Start inihibition code communication
+Communication with ABS control unit
+Communication with injection ECU
+Communication with BSI (Built-in Systems Interface) line
+Network communication
+Communication interference
+Communication interrupted
+Communication not possible
+Communication/timeout
+CAN to instrument panel communication
+engine warm
+with the valve at rest. 
+with engine off
+Conditioner
+Load condition
+Wrong conditions
+Driver + passenger
+CONFIRM
+CONFIRM to reset
+CONFIRM to continue
+CONFIRM for next digit
+CONFIRM to continue
+CONFIRM to select
+Configuration
+ABS configuration
+VIN code configuration
+No end-of-line setting
+Configuration stored
+Speedometer configuration
+Enabled
+See error page for
+Fuel consumption
+RPM counter
+Start-up counter
+Correction counter
+Operating hours counter
+Overheating counter
+Brake 2 contact
+Idle switch
+check that wheel is free
+Check that the engine is off
+Check
+ABS control
+Ignition check
+ADC control
+Idle air control
+Knock test
+Cruise control
+Idle rpm check
+Idle test
+EGR test
+Traction control
+Validate
+Digital analog converter
+Engine torque
+Requested driving torque
+Corea
+Accelerator/brake correlation
+Motor current
+Fan current
+Current too high
+Too low current
+Correct
+Correct
+Canister correction
+Short term fuel trim - bank 1
+Short term fuel trim - bank 2
+Injection time correction
+Spark advance  correction
+Injection correction
+Injection phase correction
+Injector 1 flow correction
+Injector 2 flow correction
+Injector 3 flow correction
+Injector 4 flow correction
+Short
+Short-circuit
+Short circuit to ground
+Shorted to ground/shorted to battery positive
+Short-circuit or open circuit
+Short circuit to negative
+Short circuit to positive
+Short-circuit to battery positive
+Short-circuit to ground
+shortcircuit to ground or positive
+Short circuit to battery positive
+Constant
+Builder
+Cruise control
+Adaptive cruise control
+Cruise control OFF
+Cruise control RESUME
+Cruise control SET +
+Cruise control SET -
+Cut off
+Decelerator cut-off
+CVN
+To be performed
+from ECU
+Catalyst damaged
+DASA
+Date
+Manufacturing date
+Programming date
+Vehicle manufacture date
+Programming date
+Latest service date
+Key data
+Wrong data
+Wrong or intermittent data 
+Not encoded data
+Flow meter
+Decelerated
+Deceleration
+Default
+of actuators press
+DELPHI
+DENSO
+Missing teeth
+Right
+Diagnosis
+Preheating ECU diagnosis
+Communication with immob
+Faulty
+Faulty
+Regulation difference
+Decrease
+Off
+Injector 1 switch off
+Injector 2 switch off
+Injector 3 switch off
+Injector 4 switch off
+Drawing:
+Malfunction
+OFF
+ASR OFF
+Off
+Disengaged
+Display
+LCD display
+Available
+Sensors or valves interference
+High frequency interference
+After having performing the function
+After the catalyst
+Drive
+Drive 1
+Drive 2
+Drive 3
+Drive 4
+Drive 5
+Drive 6
+DTC data frozen
+DUNLOP
+take several minutes
+Length in time
+energizing time
+Duration of the activation: 20 seconds
+Energizing time: 30 seconds
+energizing time:  5 seconds
+Energizing time: 7 seconds
+Ignition dwell time
+Hard
+and then press CONFIRM
+and press CONFIRM
+off and back on
+& release it
+EATON
+EBS
+Excessive
+ABS excess. intervent
+Eco
+Economy
+EEPROM
+ECU EEPROM
+Done
+Completed
+Catalyst efficiency
+EGR
+Power
+Electronic
+Solenoid valve
+Front solenoid valve
+Air solenoid valve 2
+Secondary air solenoid valve
+Intake valve timing control solenoid valve
+Idle control solenoid valve
+Vacuum solenoid valve 
+Front right charge solenoid valve
+Front left charge soleoid valve
+Rear charge solenoid valve
+Front right discharge solenoid valve
+Front left discharge solenoid valve
+Rear discharge solenoid valve
+Clutch actuator solenoid valve
+Rear solenoid valve
+Front right TCS solenoid valve
+Front left TCS solenoid valve
+Solenoid valves or power stages
+Fans
+Within 15 seconds turn
+EOBD
+Eq. from stepper
+Wrong
+Wrong
+Error
+EEPROM access error
+CAN error
+Communication error
+Gyroscope error
+Learning error
+Coding error
+Communication error
+Configuration error
+Downloading error
+Saving error
+Timeout error
+Transmission error
+EEPROM error
+Generic error
+Generic error
+Hardware error
+Error on clearing
+Error on downloading
+Reverse gear engagement error
+Internal error
+ECU internal error
+Error launching the downloaded program
+Internal RAM memory error
+Pump error
+Firmware downloading error
+Unknown error
+Software error
+CAN messages errors from injection ECU
+ES
+Run test with
+Activate the statement
+Perform clearing
+Done
+Done
+Not OK
+ESP
+East
+External
+Euro 3
+Europe
+problems found
+ECU evolution
+Fader
+Failed
+Throttle open
+Throttle closed
+Exhaust gas throttle valve
+Motorised throttle
+Motorized throttle (spring)
+Open motorised throttle
+Timing
+Ignition timing
+Injection phase
+Engine phases
+Altitude correction factor
+Lambda correction factor
+Pump relay feedback
+Exhaust valve feedback
+Front fog lights
+Right fog light
+Stationary
+Stop
+Driver belt buckle
+Passenger belt buckle
+File not found
+Selected file:
+End of actuator test
+End of test
+Finnish
+Calculated air flow
+Air flow measured
+FM
+Neutral
+Supplier
+forcing cut in of the
+French
+France
+Front right turn indicator
+Front left turn indicator
+Right indicator
+down to switch off
+down to switch on
+DOWN to decrease
+Right side turn indicator
+Left side turn indicator
+RH rear turn signal
+LH rear turn signal
+Left indicator
+UP / DOWN arrow to scroll
+up to switch on
+UP to increase
+UP/DOWN arrow to change
+Cold
+Parking brake
+Parking brake
+Wrong frequency
+Clutch
+FTE
+FUBA
+Normal operation
+Operating
+Function disabled for
+Function not supported
+Engine overspeeding
+Out of idle
+Out of range
+Four-wheel drive
+fuse is not reverse
+g
+g/h
+g/l
+g/s
+Range / performance
+Gas
+GEMEL
+Germany
+GETRAG
+already performed 50 deletions
+Japan
+Japanese
+Turn steering
+Turn on the ignition
+Turn key to STOP
+Cut-off revs
+Engine rpm
+Target rpm 
+Secondary pulley revs
+Idle rpm
+Target idle
+rpm
+Down
+GMPT
+LPG
+Great Britain
+Rich
+Fan 1 unit
+Enrichment gain
+Leaning gain
+Faulty
+Failure
+Electrical failure
+Electrical failure in circuit
+Lambda sensor operational failure
+Internal failure
+Mechanical failure
+Faulty or locked
+Driver
+NGE electrical power steering
+h
+HDI
+HELBAKO
+HELLA
+Hertz
+hh:mm
+HITACHI
+hPa
+engine rpm to initial value
+Application ID
+Bosch ID number
+Calibration ID
+Component identifier:
+Test ID (-X)
+Test ID (X-)
+Key identification
+the activation code:
+the idle at approx. 750 rpm
+CONFIRM button
+the instrument panel and press CONFIRM
+Test not
+Lighting
+Yaw
+Enter the date
+Immobilizer
+Antitheft system on
+Cannot carry
+Impossible to carry out the command
+Cannot energize!
+Cannot adjust
+Cannot proceed
+Set cruise acceleration (+)
+Set cruise deceleration (-)
+Move the lever on Neutral position
+Fan setting
+GMW setting
+Speed pulse
+Waiting
+Starting
+Charging
+If you are unable to cancel errors
+in ECU, disconnect the cable
+Closing
+In progr.
+in progress...
+On phs
+Operating
+Running
+Moving
+Running
+Inactive
+UNCERTAIN
+India
+Fuel gauge
+Coolant temperature indicator
+Speed gauge
+Service indicator
