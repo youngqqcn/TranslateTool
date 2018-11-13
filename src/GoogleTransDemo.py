@@ -21,6 +21,7 @@ Description:
 import time
 from lib.GoogleTk import Py4Js               #calculate  Tk Value for text
 from lib.GoogleTrans import Translate       # tranlate iterface
+import random
 
 
 def main():
@@ -51,8 +52,8 @@ def main():
 	startTime = time.time()
 
 	print('==============================')
-	# text = "你好,我来自中国.今天天气很好."    # in Chinese means "Hello, I'm from China. The weather is good today."
-	text = "我叫Tom."    # in Chinese means "Hello, I'm from China. The weather is good today."
+	text = "这是一个随机数:%d%d%d."%(random.randint(1,999),random.randint(1, 999), random.randint(1,999)) #防止内容总是重复,被谷歌封ip
+	text += "小时候,乡愁是一枚小小的邮票,我在这头,母亲在那头。"
 
 	print("中文繁体:", Translate(text, "zh-CN", "zh-TW", js.getTk(text)))  #转为繁体   to Tranditional Chinese
 	print("英语:", Translate(text, "zh-CN", "en", js.getTk(text))) #翻译为英语    Chinese to  English
